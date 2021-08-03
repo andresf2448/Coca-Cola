@@ -6,9 +6,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/58791994/128064311-e449ba32-b8b8-4a0d-b9a4-357b0da36c4a.jpeg" alt="Form" width="30%"/>
 </div>
 
-<div>
-    <img align="right" src="https://user-images.githubusercontent.com/58791994/128065504-44f01171-e862-41e4-b8c6-86ca7d5ca44f.png" alt="Form" width="30%" height="300px"/>
-</div>
 <hr/>
 
 ## Enunciado
