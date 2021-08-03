@@ -15,7 +15,7 @@
 
 ## Enunciado
 
-Desarrollo de una Landing Page responsive con temáticaCoca-Cola, utilizando JavaScript, jQuery, CSS y HTML.
+Desarrollo de una Landing Page responsive con temática Coca-Cola.
 
 #### Tecnologías necesarias:
     - JS
