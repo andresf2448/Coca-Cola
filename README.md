@@ -15,15 +15,10 @@
 
 ## Enunciado
 
-Crear una SPA (Single Page Aplication) en la cual se puedan ver distintas razas de perro junto con información relevante de las mismas utilizando la API externa [the dog api](https://thedogapi.com/) y a partir de ella poder:
-
-Buscar perros, filtrarlos / ordenarlos por temperameno, creado, peso y orden alfabético además de poder agregar nuevos perros.
-
-### Requerimientos mínimos:
+Desarrollo de una Landing Page responsive con temáticaCoca-Cola, utilizando JavaScript, jQuery, CSS y HTML.
 
 #### Tecnologías necesarias:
     - JS
-    - React
-    - Redux
-    - Express
-    - Sequelize - Postgres
+    - CSS
+    - HTML
+    - jQuery
