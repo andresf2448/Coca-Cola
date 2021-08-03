@@ -11,7 +11,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/58791994/128064328-9e873ae3-a9fd-44e7-8aa0-15f5dc230016.jpeg" alt="Form" width="30%"/>
 </div>
 <div>
-    <img align="right" src="https://user-images.githubusercontent.com/58791994/128065504-44f01171-e862-41e4-b8c6-86ca7d5ca44f.png" alt="Form" width="30%" height="200px"/>
+    <img align="right" src="https://user-images.githubusercontent.com/58791994/128065504-44f01171-e862-41e4-b8c6-86ca7d5ca44f.png" alt="Form" width="30%" height="250px"/>
 </div>
 <br>
 
