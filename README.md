@@ -33,13 +33,12 @@ Se desarrolló una Landing Page responsive con temática Coca-Cola. Se pueden ap
 Se pueden observar defirentes secciones en la navbar, la cual se adecua dependiendo del tipo de pantalla en la que se observa página. Cuando se hace click en alguna de las secciones inmediatamente se desplaza suavemente hasta llegar a la sección seleccionada. La página cuenta con la sección de Inicio donde se aprecia una imagen e información representativa de la compañia, una sección de Nosotros donde se aprecia una pequeña descripción de la compañia, una sección de Servicios donde podemos encontrar los diferentes servicios que ofrece la compañia, una sección de Galería donde podemos encontrar diferentes imagenes de los productos ofrecidos y por último una sección de contácto donde podemos encontrar la ubicación de la compañia, redes sociales y un formulario por si se desea contactar esta.
 
 ## Tecnologías empleadas
-    - JS
-    - CSS
-    - HTML
-    - jQuery
+
+| <img src="https://user-images.githubusercontent.com/69209369/116448789-e000a500-a82f-11eb-88f1-0936293d47bc.png" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/69209369/116448815-e858e000-a82f-11eb-939d-e6e93abb25c4.png" width="60" alt="CSS"> | <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="JS">  | <img src="https://user-images.githubusercontent.com/58791994/128621590-e7bcd8e0-d23d-4b7a-9e90-8a68ffd98f8d.png" width="60" alt="REACT"> |
+| :------------: | :------------: | :------------: | :------------: |
+| HTML  | CSS | JavaScript | jQuery |
     
 ## Pasos para inicializar el proyecto
 
 1. Clonar el repositorio.
 2. Abrir el archivo index.html en tu navegador favorito.
-3. Listo!!!
