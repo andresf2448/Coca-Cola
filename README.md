@@ -29,17 +29,6 @@ Se desarrolló una Landing Page responsive con temática Coca-Cola. Se pueden ap
     <img align="left" src="https://user-images.githubusercontent.com/58791994/128621269-8d87aca2-8350-4883-ba73-77c5f54f901c.png"/>
 </p>
 
-<br/>
-<br/>
-<br/><br/><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 ## Características
 Se pueden observar defirentes secciones en la navbar, la cual se adecua dependiendo del tipo de pantalla en la que se observa página. Cuando se hace click en alguna de las secciones inmediatamente se desplaza suavemente hasta llegar a la sección seleccionada. La página cuenta con la sección de Inicio donde se aprecia una imagen e información representativa de la compañia, una sección de Nosotros donde se aprecia una pequeña descripción de la compañia, una sección de Servicios donde podemos encontrar los diferentes servicios que ofrece la compañia, una sección de Galería donde podemos encontrar diferentes imagenes de los productos ofrecidos y por último una sección de contácto donde podemos encontrar la ubicación de la compañia, redes sociales y un formulario por si se desea contactar esta.
 
