@@ -9,9 +9,9 @@ Se desarrolló una Landing Page responsive con temática Coca-Cola. Se pueden ap
 
 ## Responsive
 
-<p align="center">
+<div align="center">
     <img align="left" src="https://user-images.githubusercontent.com/58791994/128621244-0b494f5f-bd86-464e-ac88-112296f0d9e4.png"/>
-</p>
+</div>
 
 <p align="center">
     <img align="left" src="https://user-images.githubusercontent.com/58791994/128621249-31e017f5-142b-45b7-92c4-5af19a36c843.png"/>
